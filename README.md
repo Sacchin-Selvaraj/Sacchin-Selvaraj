@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Sacchin Selvaraj
+A passionate Java Developer from India
 
-<!--
-**Sacchin-Selvaraj/Sacchin-Selvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🌱 I’m currently learning Full Stack Blockchain Development, Hyperledger
+💬 Ask me about Java, SpringBoot
+📫 How to reach sacchin9801@gmail.com
+📄 Know about my experiences https://sharespace01.netlify.app/
+⚡ Fun fact I think I am funny😅
 
-Here are some ideas to get you started:
+🌐 Socials:
+Discord LinkedIn Twitter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Solidity JavaScript React NodeJS React Router TailwindCSS Redux Bootstrap HTML5 CSS3
+
+
+
