@@ -13,35 +13,17 @@ A passionate Java Developer from India.
 ---
 
 ### 🌐 Socials:
-- **Discord**: [Your Discord Username]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourusername)
+- **Email**: [sacchin9801@gmail.com]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sacchin/)
 
 ---
 
 ### 💻 Tech Stack:
-- **Programming Languages**: Java, JavaScript, Python
+- **Programming Languages**: Java
 - **Frameworks**: SpringBoot, Hibernate
-- **Databases**: MySQL, MongoDB
+- **Databases**: PostgreSQL, MongoDB
 - **Tools**: Git, Docker, Maven, Postman
 - **Other Skills**: REST APIs, Microservices, Agile Development
-
----
-
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
-
----
-
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7)
 
 ---
 
@@ -50,9 +32,4 @@ A passionate Java Developer from India.
 
 ---
 
-### 😂 Random Dev Meme:
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-
-⭐️ From [Sacchin Selvaraj](https://github.com/yourusername)
+⭐️ From [Sacchin Selvaraj](https://github.com/Sacchin-Selvaraj)
