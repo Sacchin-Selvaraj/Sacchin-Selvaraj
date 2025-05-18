@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Backend Development**.
 - 💬 Ask me about **Java** and **SpringBoot**.
 - 📫 How to reach me: **sacchin9801@gmail.com**.
-- 📄 Know about my experiences: [My Portfolio](https://sharespace01.netlify.app/).
+- 📄 Know about my project: [My Project](https://sharespace01.netlify.app/).
 
 ---
 
