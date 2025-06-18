@@ -23,7 +23,7 @@
 - **Frameworks**: SpringBoot, Hibernate
 - **Databases**: PostgreSQL, MongoDB
 - **Tools**: Git, Docker, Maven, Postman
-- **Other Skills**: REST APIs, Microservices, Agile Development
+- **Other Skills**: REST APIs, Microservices, Agile Development, AWS Cloud
 
 ---
 
